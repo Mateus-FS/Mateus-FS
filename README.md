@@ -58,7 +58,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Sistema de Gestão de Eventos](https://github.com/Mateus-FS/Front_Sistema_Gestao_Eventos) | Plataforma full-stack para gerenciar eventos | React, Vite, Spring Boot |
+| [Front - Gestão de Eventos](https://github.com/Mateus-FS/Front_Sistema_Gestao_Eventos) | Interface web do sistema de eventos | React, Vite |
+| [API - Gestão de Eventos](https://github.com/Mateus-FS/API_Sistema_Gestao_Eventos) | API REST com as regras de negócio | Java, Spring Boot, MySQL |
 | [Monte seu PC Gamer](https://github.com/Mateus-FS/Monte-seu-PC-Gamer) | Monte seu PC dos sonhos e salve em PDF | JavaScript |
 | [Gerenciador de Coleiras](https://github.com/Mateus-FS/gerenciador-de-coleiras) | Controle de coleiras de um Petshop | Java, JPA, Hibernate, MySQL |
 | [Pygame Treasure Hunt](https://github.com/Mateus-FS/pygame-treasure-hunt) | Jogo de caça ao tesouro com lógica de matrizes | Python, Pygame |
