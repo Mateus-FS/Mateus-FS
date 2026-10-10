@@ -13,8 +13,9 @@
 ## 👋 Sobre mim
 
 - 🎓 Estudante do **IFPB - Campus Monteiro**
-- 🔭 Trabalhando em sistemas **full-stack** (React + Spring Boot) e apps **Android**
-- 🔐 Interesse em **segurança da informação**
+- 🎮 **Gamer**
+- 🔐 Interesse em **segurança da informação e Infraestrutura**
+- 🖥️ Conhecimento em **montagem e manutenção de PCs**
 - 🌱 Aprendendo mais sobre arquitetura de software e boas práticas
 - 📫 Fale comigo: *https://www.linkedin.com/in/mateus-ferreira-a51aa9296/*
 
