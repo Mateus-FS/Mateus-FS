@@ -17,7 +17,7 @@
 
 <!-- Troque SEU_NICK pelo seu nick do Minecraft para mostrar sua skin -->
 <div align="center">
-  <img src="https://mc-heads.net/body/SEU_NICK/150" alt="Skin do Minecraft" />
+  <img src="https://mc-heads.net/body/Theus_Play/150" alt="Skin do Minecraft" />
 </div>
 
 - 🎓 Estudante do **IFPB - Campus Monteiro**
